@@ -18,3 +18,4 @@ But, first you would need to install drivers for the corresponding Browsers and 
 
 ## Demo
 ![](Automation.gif)
+As you can see the automation script uses the cursor to navigate into the website and post a few steps, the script downloads the needed excel files. 
